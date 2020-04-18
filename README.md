@@ -14,3 +14,7 @@ Para executar o aplicativo de forma local, no terminal:
 > streamlit run app.py
 
 Dúvidas por favor entre em contato.
+
+Exemplo de funcionamento:
+
+![Grafico](https://github.com/gbazo/signalproc/blob/master/grafico.png)
