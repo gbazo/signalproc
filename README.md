@@ -1,5 +1,5 @@
 # Automatic signal processing tool
-## (Ferramenta para processamento automático de sinais)
+### (Ferramenta para processamento automático de sinais)
 
 Aplicação para remoção automatica de outliers da pressão sistólica (PAS) e intervalo de pulso (IP) de acordo com intervalos pré defenidos.
 
