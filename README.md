@@ -7,6 +7,8 @@ Para utilização é necessário que os dados estejam em um arquivo de excel com
 
 Após o processamento, o arquivo final já estara pronto para importação direta no software CardioSeries. Os testes de integração foram realizados na versão 2.7.
 
+Desenvolvido em Python 3.7
+
 Para executar o aplicativo de forma local, no terminal:
 
 > streamlit run app.py
