@@ -111,6 +111,10 @@ def main():
 
         st.markdown(get_table_download_link(df2), unsafe_allow_html=True)
 
+    st.markdown('-----------------------------------------------------')
+    st.text('Desenvolvido por Gabriel Bazo')
+    st.text('Livre para uso acadêmico')
+    st.text('Dúvidas ou sugestões: bazot3@hotmail.com')
 
 if __name__ == '__main__':
 	main()
