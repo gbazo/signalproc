@@ -13,6 +13,10 @@ Para executar o aplicativo de forma local, no terminal:
 
 > streamlit run app.py
 
+Para acessar o aplicativo online:
+
+https://signalproc.herokuapp.com/
+
 Dúvidas por favor entre em contato.
 
 Exemplo de funcionamento:
